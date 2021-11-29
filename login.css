@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+body{
+    display: flex;
+    height: fit-content ;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 0px 65px 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container{
+    max-width: 650px;
+    width: 90%;
+    background-color: whitesmoke;
+    padding: 25px 30px;
+    border-radius: 5px;
+    border: 7px solid #50394c;
+}
