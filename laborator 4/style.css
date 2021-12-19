@@ -1,0 +1,132 @@
+
+body{
+    background-color: rgb(105, 101, 95);
+    margin: 1px 1px 1px 1px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+  color: rgb(252, 252, 252);
+
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h4{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: lightgray;
+  font-style: italic;
+}
+img{
+  border-radius: 215spx;
+}
+
+.pagina .titlu{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    /* font-family: montserrat; */
+}
+.pagina .text{
+  color: rgb(0, 255, 255);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+   text-align: left;
+   font-size: italic;
+   margin-top: 1px;
+   margin-left: 1px;
+   
+
+}
+.pagina .text .poezie{
+    text-align: right;
+    font-style: italic;
+    margin-top: 10px;
+    margin-left: 20px;
+
+    
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+  }
+  .buttons {
+    margin-top: 10px;
+    margin-left: 505px;
+}
+.buttons button {
+    margin-right: 20px;
+    background-color: #030000;
+}
+.buttons a {
+    text-decoration: none;
+}
+#sw{
+    background-color: #8f6581;
+}
+* {box-sizing: border-box}
+
+/* Full-width input fields */
+  input[type=text], input[type=password] {
+  width: 100%;
+  padding: 10px;
+  margin: 0.9px 0 11px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+/* Set a style for all buttons */
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 8px 14px;
+    margin: 2px 0;
+    border-bottom: #04AA6D;
+    cursor: pointer;
+    width: 50%;
+    opacity: 0.9;
+  }
+  
+  button:hover {
+    opacity:5;
+  }
+  /* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}r
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: rgb(143, 172, 154);
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #5b3363;
+  color: white;
+}
+
+
+  
